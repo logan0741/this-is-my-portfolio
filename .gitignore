@@ -1,0 +1,24 @@
+# Node.js (Frontend)
+node_modules/
+.next/
+out/
+build/
+.env.local
+.vercel/
+
+# Python (Backend)
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+.env
+uploads/
+
+# Output folders
+vercel-deploy/
+
+# OS Files
+.DS_Store
+Thumbs.db
